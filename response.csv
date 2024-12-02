@@ -1,0 +1,11 @@
+Unnamed: 0,name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,max_torque_rpm,torque_nm,selling_price_pred
+0,Maruti,2014,145500,Diesel,Individual,Manual,First Owner,23.4,1248.0,74.0,5.0,2000.0,190.0,434385.884319911
+1,Skoda,2014,120000,Diesel,Individual,Manual,Second Owner,21.14,1498.0,103.52,5.0,2500.0,250.0,633772.6780467031
+2,Hyundai,2010,127000,Diesel,Individual,Manual,First Owner,23.0,1396.0,90.0,5.0,2750.0,219.66895999999997,406043.4445879715
+3,Maruti,2007,120000,Petrol,Individual,Manual,First Owner,16.1,1298.0,88.2,5.0,4500.0,112.77647499999999,215719.62618887814
+4,Hyundai,2017,45000,Petrol,Individual,Manual,First Owner,20.14,1197.0,81.86,5.0,4000.0,113.75,520614.14394044015
+5,Maruti,2007,175000,LPG,Individual,Manual,First Owner,17.3,1061.0,57.5,5.0,4500.0,76.49186999999999,-68514.34252262651
+6,Maruti,2001,5000,Petrol,Individual,Manual,Second Owner,16.1,796.0,37.0,4.0,2500.0,59.0,-246123.66330590926
+7,Toyota,2011,90000,Diesel,Individual,Manual,First Owner,23.59,1364.0,67.1,5.0,2400.0,170.0,337431.2944762501
+8,Ford,2013,169000,Diesel,Individual,Manual,First Owner,20.0,1399.0,68.1,5.0,2000.0,160.0,312955.57191969303
+9,Renault,2014,68000,Diesel,Individual,Manual,Second Owner,19.01,1461.0,108.45,5.0,2250.0,248.0,705555.3857175978
